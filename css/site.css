@@ -197,7 +197,7 @@ a{color:inherit}
 .ready .hero .rise>span{transform:none}
 
 .gate .wrap{display:flex;flex-wrap:wrap;gap:36px;align-items:stretch}
-.gate .pic{flex:999 1 620px;min-width:0;min-height:440px;border:3px solid var(--deep);border-radius:10px;overflow:hidden;box-shadow:8px 8px 0 var(--deep)}
+.gate .pic{flex:1 1 440px;min-width:0;min-height:640px;border:3px solid var(--deep);border-radius:10px;overflow:hidden;box-shadow:8px 8px 0 var(--deep)}
 .gate .text{flex:1 1 340px;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:14px}
 .qr{display:flex;gap:14px;align-items:center;margin-top:6px;padding:14px;border:2px dashed var(--navy);border-radius:8px;text-decoration:none;transition:background .2s ease}
 .qr:hover{background:var(--mist)}
