@@ -316,3 +316,8 @@ a{color:inherit}
 .veg img{aspect-ratio:1/1;height:auto}
 .veg figcaption{padding:10px 12px 12px;font-size:14.5px;line-height:1.45}
 .veg figcaption b{display:block;font-family:var(--display);font-size:20px}
+.wide-pic{height:clamp(300px,46vw,560px);border:3px solid var(--deep);border-radius:10px;overflow:hidden;box-shadow:8px 8px 0 var(--deep)}
+.wide-pic.dark{border:2px solid var(--sky);box-shadow:none}
+.sub-h{font-family:var(--display);font-weight:900;font-size:clamp(24px,2.6vw,30px);margin:40px 0 16px}
+.veg.four{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media (max-width:900px){.veg.four{grid-template-columns:repeat(2,minmax(0,1fr))}}
