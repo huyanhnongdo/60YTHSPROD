@@ -2,13 +2,12 @@
 
 Trang tổng hợp sản phẩm gian trại của lớp 12A8 (K59) trong ngày hội kỷ niệm 60 năm thành lập Trường THPT Yên Thế (1966 – 2026), chủ đề **“60 năm – Trang sử vàng, tiếp nối những hành trình”**.
 
-Bốn không gian theo bài giới thiệu của lớp:
+Ba không gian của gian trại:
 
 | Trang | Không gian |
 |---|---|
 | `nong-san.html` | Nông sản – Hương sắc quê hương |
 | `ky-uc.html` | Ký ức – Một miền hoài niệm |
-| `tri-thuc.html` | Tri thức – Hành trình của những trang sách |
 | `stem.html` | STEM – Khơi nguồn sáng tạo, chinh phục tương lai |
 
 Trang tĩnh thuần HTML/CSS/JS, không cần build. Mở `index.html` hoặc chạy `python3 -m http.server` trong thư mục này.
